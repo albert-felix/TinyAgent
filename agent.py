@@ -1,7 +1,7 @@
 from llm import LLM
 from trajectory import Trajectory
 class TinyAgent:
-    """A minimal, modular and educational agent framework."""
+    """A minimal, modular and educational agent framework.456"""
 
     def __init__(self, llm: LLM):
         self.llm = llm
